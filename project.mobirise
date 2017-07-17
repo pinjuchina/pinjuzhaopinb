@@ -132,7 +132,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "src": "@THEME_PATH@/components/_images/team/face1.png",
               "class": "features-img",
               "width": 600
             }
@@ -143,7 +143,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "src": "@THEME_PATH@/components/_images/team/face2.png",
               "class": "features-img",
               "width": 600
             }
@@ -157,7 +157,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "src": "@THEME_PATH@/components/_images/team/face3.png",
               "class": "features-img",
               "width": 600
             }
@@ -168,7 +168,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "src": "@THEME_PATH@/components/_images/team/face4.png",
               "class": "features-img",
               "width": 600
             }
@@ -245,8 +245,8 @@
               }
             }
           },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
-          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
+          "iconEmail": "<img src=\"@THEME_PATH@/components/_images/form/icon-email.png\">",
           "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">确认发送</a>"
         },
