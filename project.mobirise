@@ -168,7 +168,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
