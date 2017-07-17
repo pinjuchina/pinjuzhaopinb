@@ -150,7 +150,7 @@
           },
           "person2": "<font color=\"#000000\">淡定行政女神</font>",
           "subtitle2": "1名",
-          "caption2": "<font color=\"#000000\">对接外部合作公司 &nbsp;洽谈合作条件内容 &nbsp;支侍业务部服务内容正常衔接</font>&nbsp;<br>公<font color=\"#000000\">众号运营 内容筹划 &nbsp;活动策划 &nbsp;内外衔接、沟通协调重要角色</font><span style=\"font-size: 1rem; line-height: 1.5;\">.</span><br>",
+          "caption2": "<font color=\"#000000\">对接外部合作公司 &nbsp;洽谈合作条件内容 &nbsp;支侍业务部服务内容正常衔接</font>&nbsp;<br>公<font color=\"#000000\">众号运营 内容筹划 &nbsp;活动策划 &nbsp;内外衔接、沟通协调重要角色</font><span style=\"font-size: 1rem; line-height: 1.5;\">.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
           "person3": "<font color=\"#000000\">酷帅销售哥</font>",
           "subtitle3": "5名",
           "caption3": "<font color=\"#000000\">对接公司的客户 按需匹配资源</font>&nbsp;<br><font color=\"#000000\">服务客户居家所需&nbsp;&nbsp;</font><br><font color=\"#000000\">工作性质：</font><br><font color=\"#000000\">自由、随性、全职兼职均可</font>&nbsp;.",
@@ -164,7 +164,7 @@
           },
           "person4": "可爱文员",
           "subtitle4": "1名",
-          "caption4": "处理公司的文档、相关数据 &nbsp;整理各类文件 接待等相关工作 &nbsp;.",
+          "caption4": "处理公司的文档、相关数据 &nbsp;整理各类文件 接待等相关工作 &nbsp;.<br><br><br>",
           "media4": {
             "image": {
               "active": true,
@@ -179,6 +179,9 @@
             },
             ".text2 FONT": {
               "color": "#ffffff"
+            },
+            ".text3 FONT": {
+              "text-align": "center"
             }
           }
         },

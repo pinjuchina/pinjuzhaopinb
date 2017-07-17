@@ -727,6 +727,9 @@ blockquote {
 #team1-5 .text2 FONT {
   color: #ffffff;
 }
+#team1-5 .text3 FONT {
+  text-align: center;
+}
 #form2-8 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #ecf0f1;
