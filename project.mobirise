@@ -42,6 +42,11 @@
             "Theme"
           ],
           "_name": "intro6",
+          "_styles": {
+            ".mbr-section-text SPAN": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "intro6-2",
           "_params": {
             "paddingTop": 3,
@@ -86,12 +91,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
-          "_styles": {
-            ".mbr-section-text SPAN": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>"
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -103,6 +103,17 @@
             "Theme"
           ],
           "_name": "team1",
+          "_styles": {
+            ".text1 FONT": {
+              "color": "#999999"
+            },
+            ".text2 FONT": {
+              "color": "#ffffff"
+            },
+            ".text3 FONT": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "team1-5",
           "_params": {
             "rows": "2",
@@ -172,17 +183,6 @@
               "class": "features-img",
               "width": 600
             }
-          },
-          "_styles": {
-            ".text1 FONT": {
-              "color": "#999999"
-            },
-            ".text2 FONT": {
-              "color": "#ffffff"
-            },
-            ".text3 FONT": {
-              "text-align": "center"
-            }
           }
         },
         {
@@ -198,6 +198,9 @@
             },
             ".mbr-section-subtitle FONT": {
               "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "12px"
             }
           },
           "alias": "colorm/components",
