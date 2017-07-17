@@ -132,7 +132,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face1.png",
+              "src": "@PROJECT_PATH@/assets/images/face1.png",
               "class": "features-img",
               "width": 600
             }
@@ -143,7 +143,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face2.png",
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
               "class": "features-img",
               "width": 600
             }
@@ -157,7 +157,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face3.png",
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
               "class": "features-img",
               "width": 600
             }
@@ -168,7 +168,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face4.png",
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
               "class": "features-img",
               "width": 600
             }
@@ -192,6 +192,9 @@
             ".mbr-section-title": {
               "color": "#ecf0f1",
               "font-size": "46px"
+            },
+            ".mbr-section-subtitle FONT": {
+              "color": "#ffffff"
             }
           },
           "alias": "colorm/components",
@@ -215,7 +218,7 @@
             "showTitle": true,
             "showText": false
           },
-          "subtitle": "<br>请把您的需要咨询的内容发送给我们，我们会尽快回复您！",
+          "subtitle": "<br>请把您的需要咨询的内容发送给我们，我们会尽快回复您！<br><font color=\"#000000\">简历投递：009@pinju.site</font>",
           "title": "<span style=\"line-height: 1.17em;\">品居租房</span><br><span style=\"line-height: 1.17em;\">品质居家<br></span><br>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
           "form": {
@@ -245,8 +248,8 @@
               }
             }
           },
-          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
-          "iconEmail": "<img src=\"@THEME_PATH@/components/_images/form/icon-email.png\">",
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">确认发送</a>"
         },
