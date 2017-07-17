@@ -168,9 +168,13 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "person4": "可爱文员",
@@ -179,9 +183,13 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           }
         },
