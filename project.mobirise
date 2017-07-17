@@ -1,0 +1,285 @@
+{
+  "settings": {
+    "name": "NewSite-07-16_2330",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 10,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "intro6",
+          "_anchor": "intro6-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "bgColor": "#f1c40f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.85,
+            "overlayColor": "#f1c40f",
+            "showTitle": true,
+            "showText": true
+          },
+          "title": "招募伙伴<br><br>",
+          "text": "<font color=\"#000000\"><b>品居租房网</b></font><br><br>品居租房以“全新的互联网房地产居间综合服务商”的概念出现，为客户提供租前精准信息、租后系统化的优质服务。如：搬家、入住清洁、入住消毒、家电清洗消毒、家电租赁、代付租金等服务。<br><br><b>将是有史以来黏性最强的租房服务</b>！<br><span style=\"font-size: 0.99rem; line-height: 1.85em;\">品居租房网专做房屋租赁，深挖租赁市场客户及业主需求，提供更完善的服务。品居租房竭尽全力做到居间方应承担的责任、应尽的义务、应提供的真实信息及品质服务。</span><br><span style=\"font-size: 0.99rem; line-height: 1.85em;\">未来随着消费者购房计划推迟，租房客户群体逐年增加，现在市场租赁又较为传统，只是提供信息而已，已经无法满足当代客户的服务所需。我们将为以后的庞大市场的客户提供更多元化服务。&nbsp;</span><br>",
+          "form": {
+            "action": "xihanw@qq.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "name": {
+                "title": "Name",
+                "customTitle": "Name*",
+                "visible": false
+              },
+              "phone": {
+                "title": "Phone",
+                "customTitle": "Phone",
+                "visible": false
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "_styles": {
+            ".mbr-section-text SPAN": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-5",
+          "_params": {
+            "rows": "2",
+            "bgItem1": "#f5f5f5",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
+            "bgItem4": "#212121",
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "",
+          "subtitle": "<b>我们需要思维独特的你、桀骜不驯的你、激情澎湃的你、正直果敢的你！</b>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "person1": "<font color=\"#000000\">忧郁技术男神</font>",
+          "subtitle1": "&nbsp;2名",
+          "caption1": "<font color=\"#000000\">主要工作：</font><br><font color=\"#000000\">表单制作</font><br><font color=\"#000000\">网页开发<br>熟练使</font>&nbsp;用Dreamweaver &nbsp;CC<br><font color=\"#000000\">可快速制作网页等工具及CorelDRAW </font>.",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "person2": "<font color=\"#000000\">淡定行政女神</font>",
+          "subtitle2": "1名",
+          "caption2": "<font color=\"#000000\">对接外部合作公司 &nbsp;洽谈合作条件内容 &nbsp;支侍业务部服务内容正常衔接</font>&nbsp;<br>公<font color=\"#000000\">众号运营 内容筹划 &nbsp;活动策划 &nbsp;内外衔接、沟通协调重要角色</font><span style=\"font-size: 1rem; line-height: 1.5;\">.</span><br>",
+          "person3": "<font color=\"#000000\">酷帅销售哥</font>",
+          "subtitle3": "5名",
+          "caption3": "<font color=\"#000000\">对接公司的客户 按需匹配资源</font>&nbsp;<br><font color=\"#000000\">服务客户居家所需&nbsp;&nbsp;</font><br><font color=\"#000000\">工作性质：</font><br><font color=\"#000000\">自由、随性、全职兼职均可</font>&nbsp;.",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "person4": "可爱文员",
+          "subtitle4": "1名",
+          "caption4": "处理公司的文档、相关数据 &nbsp;整理各类文件 接待等相关工作 &nbsp;.",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "_styles": {
+            ".text1 FONT": {
+              "color": "#999999"
+            },
+            ".text2 FONT": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ecf0f1"
+            },
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "color": "#ecf0f1",
+              "font-size": "46px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "subtitle": "<br>请把您的需要咨询的内容发送给我们，我们会尽快回复您！",
+          "title": "<span style=\"line-height: 1.17em;\">品居租房</span><br><span style=\"line-height: 1.17em;\">品质居家<br></span><br>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "form": {
+            "action": "xihanw@qq.com",
+            "alerts": {
+              "success": "感谢您关注 品居租房网 !"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "姓名*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "您的咨询 建议！"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">确认发送</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "FONT": {
+              "color": "#ecf0f1"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-9",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<font color=\"#000000\">www.pinjuvip.com</font>"
+        }
+      ]
+    }
+  }
+}
